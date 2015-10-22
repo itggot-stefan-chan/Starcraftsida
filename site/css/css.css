@@ -1,0 +1,23 @@
+body {
+    background: url(../images/background.jpg.jpg);
+    height: 720px;
+}
+div#Header {
+    width: 50%;
+    height: 108px;
+    overflow: hidden;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+div#Content {
+    height: 500px;
+    width: 100%;
+}
+h1 {
+    color: red;
+}
+div#Footer {
+    height: 112px;
+    width: 100%;
+
+}
