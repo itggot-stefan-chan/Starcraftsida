@@ -11,7 +11,7 @@ div#Header {
 }
 div#Content {
     height: 500px;
-    width: 100%;
+    width: 1350px;
 }
 h1 {
     color: red;
@@ -20,4 +20,27 @@ div#Footer {
     height: 112px;
     width: 100%;
 
+}
+div#Terran {
+    height: 450px;
+    width: 30%;
+    margin-left: 5%;
+    float: left;
+    overflow: hidden;
+}
+div#Protoss {
+    height: 450px;
+    width: 30%;
+    float: left;
+    overflow: hidden;
+}
+div#Zerg {
+    height: 450px;
+    width: 30%;
+    margin-right: 5%;
+    float: left;
+    overflow: hidden;
+}
+p {
+    color: red;
 }
